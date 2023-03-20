@@ -1,0 +1,8 @@
+body{
+    background-size: cover;
+}
+
+.login-page{
+    position: absolute;
+    background-color: white;
+}
